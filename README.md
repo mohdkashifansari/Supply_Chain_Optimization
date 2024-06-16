@@ -68,10 +68,7 @@ Supply Chain Optimization is a critical aspect of modern manufacturing and helps
     pip install -r requirements.txt
     ```
 3. Navigate to the project directory and run the main script:
-    ```bash
-    python main.py
-    ```
-4. Follow the instructions in the script to preprocess the data, visualize the relationships, and apply the models.
+    supply_chain_optimization.ipynb
 
 ## Pre-Processing Data
 
