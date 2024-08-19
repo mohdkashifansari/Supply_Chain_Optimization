@@ -68,50 +68,8 @@ Supply Chain Optimization is a critical aspect of modern manufacturing and helps
     pip install -r requirements.txt
     ```
 3. Navigate to the project directory and run the main script:
-    ```bash
-    python main.py
-    ```
-4. Follow the instructions in the script to preprocess the data, visualize the relationships, and apply the models.
+   supply_chain_optimization.ipynb
 
-## Pre-Processing Data
-
-### Importing all required libraries
-
-### Descriptive Part
-
-### Data Cleaning
-
-#### Missing Values
-
-#### Duplicate Values
-
-## Correlation Matrix
-
-## Data Visualization
-
-### Products Analysis
-
-### Customers Analysis
-
-### Customer Segment by Products
-
-### Routes Analysis
-
-### Transportation Modes
-
-### Routes and Transportation Modes
-
-## Data Modeling
-
-### Regression Models
-
-#### Linear Regression for Stock Level
-
-#### Linear Regression for Transportation Costs
-
-### Classification Models
-
-#### KNN Classifier for Routes
 
 ## Conclusion
 
